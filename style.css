@@ -7,6 +7,10 @@
   --item-general: #eca674;
 }
 
+.items-container .item {
+  display: flex;
+}
+
 .item-video {
   background-color: var(--item-video);
 }
@@ -29,4 +33,8 @@
 
 .item-general {
   background-color: var(--item-general);
+}
+
+.item-img img {
+  width: 100%;
 }
