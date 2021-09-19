@@ -1,0 +1,32 @@
+:root {
+  --item-video: #fffad1;
+  --item-img: #e7a4d0;
+  --item-quote: #ddebf8;
+  --item-movie: #ddeae1;
+  --item-tv: #ff8080;
+  --item-general: #eca674;
+}
+
+.item-video {
+  background-color: var(--item-video);
+}
+
+.item-img {
+  background-color: var(--item-img);
+}
+
+.item-quote {
+  background-color: var(--item-quote);
+}
+
+.item-movie {
+  background-color: var(--item-movie);
+}
+
+.item-tv {
+  background-color: var(--item-tv);
+}
+
+.item-general {
+  background-color: var(--item-general);
+}
